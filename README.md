@@ -6,11 +6,13 @@ de videojuegos indie y en la digitalización de empresas, utilizando siempre las
 más avanzadas del mercado.
 
 Misión
+
 Ser una empresa pionera en la creación de soluciones tecnológicas que impulsen la digitalización y el entretenimiento, 
 combinando innovación, creatividad y calidad. Aspiramos a posicionarnos como líderes en el desarrollo de videojuegos y 
 plataformas web, contribuyendo a la transformación digital en México.
 
 Visión
+
 En los próximos 5 a 10 años, After Owl será reconocida como una de las principales 
 desarrolladoras de videojuegos indie en México, así como un pilar en la digitalización de empresas a nivel nacional.
 Nuestro objetivo es fomentar la innovación tecnológica, ayudando a empresas e individuos a integrarse 
